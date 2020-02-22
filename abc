@@ -1,0 +1,162 @@
+[33mcommit a70b4ae587370e5766d3617c9abb723982b57554[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32m01_01b[m[33m)[m
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Thu Nov 9 19:15:03 2017 -0500
+
+    Update README.md
+
+[33mcommit 0869e0c7fea72ba214ef2845cf04158d9bc1d117[m
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Thu Nov 9 19:08:19 2017 -0500
+
+    Update README.md
+
+[33mcommit adef331fbaccdf779f1d4a55ef2c0433f7b2cebb[m
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Wed Dec 14 13:53:51 2016 -0800
+
+    Fixed Issue with Button Width
+
+[33mcommit 3a0754a89c512c26586736b429b0a79b2e100f6c[m
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Wed Dec 14 11:18:22 2016 -0800
+
+    Update README.md
+
+[33mcommit 8dcfda1c9413f16ef60a1b73789170bef8153809[m
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Wed Dec 14 11:18:07 2016 -0800
+
+    Delete hero.png
+
+[33mcommit bb104fd7a128a90fb0fbb33415ae6b7111656a70[m
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Wed Dec 14 11:17:57 2016 -0800
+
+    Uploaded new thumbnail for the course.
+
+[33mcommit 6753ba58a984e732a5fed77f7a579159bd51a58e[m
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Wed Dec 14 11:17:23 2016 -0800
+
+    Update README.md
+
+[33mcommit 1d79bd4969ff2afa9cf10b2f15925ac6c3ccd9a1[m
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Wed Dec 14 11:16:08 2016 -0800
+
+    Update README.md
+
+[33mcommit 46f2317565efc0cf34e080459c85a324126fdab1[m[33m ([m[1;32m02_09e[m[33m)[m
+Author: Ray Villalobos <ray@lynda.com>
+Date:   Fri Nov 11 16:52:01 2016 -0500
+
+    02_09e
+
+[33mcommit 3cc25e9bb791019e36f99fe813a94f2875d0cbc8[m
+Author: Ray Villalobos <ray@lynda.com>
+Date:   Fri Nov 11 16:33:55 2016 -0500
+
+    02_08e Authentication Events
+
+[33mcommit 2d493435af0a2f3e47adadd955628481502c1433[m
+Author: Ray Villalobos <ray@lynda.com>
+Date:   Fri Nov 11 15:02:26 2016 -0500
+
+    02_07b Logging Out
+
+[33mcommit 73e18db6aaa13771b76c3a182112fe733f405b05[m
+Author: Ray Villalobos <ray@lynda.com>
+Date:   Thu Nov 10 20:46:28 2016 -0500
+
+    02_06 Detecting Registration Events
+
+[33mcommit 64b6abb8d70c540f1d5539d4b3f6a8b60b90a865[m
+Author: Ray Villalobos <ray@lynda.com>
+Date:   Thu Nov 10 19:55:55 2016 -0500
+
+    02_05e login users
+
+[33mcommit 1b91ef6af9710ddafe345b388151c9bec47d087d[m
+Author: Ray Villalobos <ray@lynda.com>
+Date:   Thu Nov 10 19:34:38 2016 -0500
+
+    02_04e Storing Data
+
+[33mcommit 3092eae29748f4f00ca1d3afb3226116e56ae27d[m
+Author: Ray Villalobos <ray@lynda.com>
+Date:   Thu Nov 10 16:56:02 2016 -0500
+
+    02_03 Adding Services
+
+[33mcommit 4730374bec4a35cfa04f51922d143e98c2940ff6[m
+Author: Ray Villalobos <ray@lynda.com>
+Date:   Thu Nov 10 14:15:14 2016 -0500
+
+    Creating a controller
+
+[33mcommit 5ff48e590e5839b0aa6397db7c11a8ed3ad2d6b5[m
+Author: Ray Villalobos <ray@lynda.com>
+Date:   Thu Nov 10 14:03:18 2016 -0500
+
+    02_01 Added Firebase Links
+
+[33mcommit 14190214489970ca91755c8bb2aa963291bbee9f[m[33m ([m[1;32mo_02_01b[m[33m)[m
+Author: Ray Villalobos <ray@lynda.com>
+Date:   Tue Sep 29 20:17:30 2015 -0400
+
+    added ng-route links
+
+[33mcommit 9ebea666275badacc64f6cbb7525f4cf3509332a[m
+Author: Ray Villalobos <ray@lynda.com>
+Date:   Tue Sep 29 18:45:45 2015 -0400
+
+    01_07e including navigation
+
+[33mcommit 394610cf02da67513de97cd5253cb8be4b446fd3[m
+Author: Ray Villalobos <ray@lynda.com>
+Date:   Tue Sep 29 18:26:07 2015 -0400
+
+    01_06e
+    Managing submissions
+
+[33mcommit deffe02744bcd095a1a79bf4ba32845acaa5bc23[m
+Author: Ray Villalobos <ray@lynda.com>
+Date:   Tue Sep 29 17:03:18 2015 -0400
+
+    01_05e
+
+[33mcommit 876dc6d26ef4e1ae69865e3312df6875e7738dd9[m
+Author: Ray Villalobos <ray@lynda.com>
+Date:   Tue Sep 29 13:16:59 2015 -0400
+
+    01_05e controllers
+
+[33mcommit ee02d0084458a77a904c90388b4a1a77748b6120[m
+Author: Ray Villalobos <ray@lynda.com>
+Date:   Tue Sep 29 11:08:06 2015 -0400
+
+    01_03e PU
+
+[33mcommit 396d4e31973803a6aa9d32ddb815e6383debd196[m
+Author: Ray Villalobos <ray@lynda.com>
+Date:   Mon Sep 28 15:32:17 2015 -0400
+
+    01_03e Using Routes
+
+[33mcommit cf7755f3f13276428a08e231e704b44e8e7ad831[m
+Author: Ray Villalobos <ray@lynda.com>
+Date:   Mon Sep 28 15:18:14 2015 -0400
+
+    01_02e Adding Angular
+
+[33mcommit e2aa30114e5cb7984288ac39766701751e31982d[m
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Sun Sep 27 15:01:36 2015 -0400
+
+    added files
+
+[33mcommit e119491d3800cb36ebb264e1bfb2dcc96a98664c[m
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Fri Sep 25 14:20:17 2015 -0400
+
+    first commit
