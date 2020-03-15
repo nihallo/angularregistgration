@@ -11,17 +11,46 @@
   <script src="js/lib/angular/angular-route.min.js"></script>
   <script src="js/lib/angular/angular-animate.min.js"></script>
 
+
+
+<!-- Firebase -->
+<script src="https://www.gstatic.com/firebasejs/3.6.6/firebase.js"></script>
+
+  <script>
+    // Your web app's Firebase configuration
+    var firebaseConfig = {
+        apiKey: "AIzaSyBYRu7pYDK7a7AMqevZvBEwmmZsYSvBjDk",
+        authDomain: "angularregistration-83a8f.firebaseapp.com",
+        databaseURL: "https://angularregistration-83a8f.firebaseio.com",
+        projectId: "angularregistration-83a8f",
+        storageBucket: "angularregistration-83a8f.appspot.com",
+        messagingSenderId: "641221179872",
+        appId: "1:641221179872:web:01f61a4943a437956e1385"
+      };
+      // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+  </script>
+
+<!-- AngularFire -->
+<script src="https://cdn.firebase.com/libs/angularfire/2.3.0/angularfire.min.js"></script>
   <script src="js/app.js"></script>
   <script src="js/controllers/registration.js"></script>
-
-
+  <script src="js/services/authentication.js"></script>
+  <script src="js/controllers/success.js"></script>
 </head>
 <body>
-<header></header>
-<div class="page" ng-view>
+<header>
+  <nav class="cf" ng-include ="'views/nav.html'"></nav>
+</header>
+<div class="page" >
 
-  <main class="cf">
-    {{ message }}
+  <div class = "userinfo" ng-show="currentUser" ng-controller ="RegistrationController">
+    <span class ="userinfo">Hi {{currentUser.firstname}} </span>
+    <a ng-href = "#/login" ng-click = "logout()">logout</a>
+  </div>
+  
+  <main class="cf" ng-view>
+    {{message}}
   </main>
 </div>
 </body>
